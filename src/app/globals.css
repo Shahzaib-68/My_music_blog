@@ -25,3 +25,30 @@ body {
     text-wrap: balance;
   }
 }
+
+/* .container{
+background-color: black;
+  margin: auto;
+  display: flex;
+  flex-grow: unset;
+} */
+
+/* .main1{
+  display: flex;
+  justify-content: space-evenly;
+} */
+
+.h1_content {
+  font-weight: bold;
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.p_content{
+   font-size: 20px;
+}
+
+.imag_content {
+   width: 300px;
+   height: 200px;
+}
